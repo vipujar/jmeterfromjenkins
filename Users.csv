@@ -1,0 +1,5 @@
+UserName,comments,Turbineid,Year,Frequency,Type
+999999605,Hello Test 1,299212,2016,yearly,UNIT
+999999605,Hello Test 2,298968,2016,monthly,BLOCK
+999999605,Hello Test 3,297599,2016,hourly,UNIT
+999999605,Hello Test 4,296443,2016,yearly,BLOCK
